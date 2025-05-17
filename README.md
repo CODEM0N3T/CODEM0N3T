@@ -5,6 +5,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codem0n3t" alt="codem0n3t" /></a> </p>
 
+<p dir="auto">I graduated college in December 2023 with a Bachelor’s degree in Computer Science. I’m currently enrolled in the TripleTen Bootcamp Software Engineering Program, where I’m deepening my skills as a Full Stack Developer.</p>
+
+<p dir="auto">I’m also a co-founder and actively working on the app ShelpEase: Your Meal Assistant, which helps users find recipes tailored to their allergies and dietary needs.</p>
+
+<p dir="auto">During my learning journey, I’ve gained hands-on experience with key technologies including HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, Git/GitHub, and more. I’m passionate about building useful, user-friendly applications and collaborating with others in tech to create innovative solutions.</p>
+
 - 🔭 I’m currently working on [WTWR](https://github.com/CODEM0N3T/se_project_react)
 
 - 🌱 I’m currently learning **Advanced React (Hooks, Context, Router), DevOps practices (Docker, CI/CD), Firebase Cloud Functions and Flutter animations**
