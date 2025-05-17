@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Monet</h1>
 <h3 align="center">A passionate Front-End Developer, Software Engineer, and Creative Technologist from Atlanta, GA</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codem0n3t&label=Profile%20views&color=0e75b6&style=flat" alt="codem0n3t" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codem0n3t" alt="codem0n3t" /></a> </p>
 
 <p dir="auto">I graduated college in December 2023 with a Bachelor’s degree in Computer Science. I’m currently enrolled in the TripleTen Bootcamp Software Engineering Program, where I’m deepening my skills as a Full Stack Developer.</p>
 
@@ -24,6 +22,12 @@
 - 📫 How to reach me **monethowson1@gmail.com**
 
 - ✨ Fun fact **I love all things creative — especially the process of bringing ideas to life and building things that others can actually use and enjoy. ✨**
+
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codem0n3t&label=Profile%20views&color=0e75b6&style=flat" alt="codem0n3t" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codem0n3t" alt="codem0n3t" /></a> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
