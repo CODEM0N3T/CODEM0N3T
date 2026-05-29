@@ -7,6 +7,7 @@
 
 <p dir="auto">I’m also a co-founder and actively working on the app ShelpEase: Your Meal Assistant, which helps users find recipes tailored to their allergies and dietary needs.</p>
 
+
 <p dir="auto">During my learning journey, I’ve gained hands-on experience with key technologies including HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, Git/GitHub, and more. I’m passionate about building useful, user-friendly applications and collaborating with others in tech to create innovative solutions.</p>
 
 - 🔭 I’m currently working on [WTWR](https://github.com/CODEM0N3T/se_project_react)
